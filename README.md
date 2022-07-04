@@ -10,8 +10,8 @@
 - Each Room is described by a unique number, unique password, status, type, level, price, view, and class type.         
 - We keep track of the number of rooms that the customer booked them and the date(start, end)     
 - All the payments of the customer will be in one bill and one bill should be paid by one customer.      
--Each bill has a unique ID and may have a discount.  
--We keep track of the total price and pay time.   
+- Each bill has a unique ID and may have a discount.  
+- We keep track of the total price and pay time.   
 
 ## Er diagram of the project 
 ![image](https://drive.google.com/uc?export=view&amp;id=1kl00zC3d3Q5r1iiZ8tm3IDVsYpz_5bLZ) 
